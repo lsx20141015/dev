@@ -1,0 +1,4 @@
+git config --global user.name "githublsx20141015"
+git config --global user.email "github894030264@qq.com"
+git clone https://github.com/lsx20141015/dev.git
+
